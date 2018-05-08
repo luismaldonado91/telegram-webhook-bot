@@ -1,0 +1,16 @@
+{
+  "name": "telegram-webhook-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with a webhook running remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
